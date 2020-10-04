@@ -1,1 +1,6 @@
-
+{
+    "Threads": 5,
+    "ApiKey": "2Captcha Api Key",
+    "PublicKey": "63E4117F-E727-42B4-6DAA-C8448E9B137F",
+    "ClaimGroups": true
+}
